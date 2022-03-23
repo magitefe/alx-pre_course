@@ -1,3 +1,2 @@
-bash
-#! /bin/nash
-ALX
+#!/bin/bash
+echo "ALX"

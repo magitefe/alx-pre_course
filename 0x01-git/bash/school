@@ -1,3 +1,2 @@
-bash
-School
-#! /bin/nash
+#!/bin/bash
+echo "School"
